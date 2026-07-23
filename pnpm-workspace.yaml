@@ -1,0 +1,10 @@
+packages:
+  - apps/*
+  - packages/*
+allowBuilds:
+  esbuild: true
+  node: true
+  register-scheme: true
+  react-native-android-overlay: true
+  '@parcel/watcher': true
+  core-js: true
